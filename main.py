@@ -16,6 +16,5 @@ for line in code:
         func = reader.check_function(line)
         if func:
             print(reader.check_args(line))
-ú
 
 print(variables)
