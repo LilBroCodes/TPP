@@ -47,3 +47,4 @@ class TppReader:
             raise ValueError("Function not in line, or missing ';'.")
 
         return match.group(1)
+

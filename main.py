@@ -17,4 +17,5 @@ for line in code:
         if func:
             print(reader.check_args(line))
 
+
 print(variables)
