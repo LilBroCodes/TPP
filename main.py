@@ -18,3 +18,4 @@ for line in code:
             print(reader.check_args(line))
 
 print(variables)
+
